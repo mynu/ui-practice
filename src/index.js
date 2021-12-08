@@ -1,12 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
+import {BrowserRouter} from 'react-router-dom'
 import reportWebVitals from './reportWebVitals';
+// import Mainfile from './component/Mainfile'
+import Mounting from './mounting/Mounting';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    {/* <App /> */}
+
+    {/* <Mainfile /> */}
+   <Mounting  name="mynu"/>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -21,7 +21,7 @@ export default class Mounting extends Component {
     render() {
        console.log("Mounting - Rendored") //parent 
         return ( 
-        <h1>hello kiran <Student name="shiva"/></h1>
+        <h1>hello kiran <Student name="shiva1"/></h1>
         
         
            

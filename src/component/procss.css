@@ -1,0 +1,129 @@
+.App-header {
+ color: blue;
+display: flex;
+}
+.Main-head{
+  display: flex;
+  background-color: rgb(130, 178, 187);
+}
+
+ .List ul li {
+        color: darkgoldenrod;
+        display: inline-block;  
+        font-size: 30px;
+        padding-right: 100px;
+        text-decoration: none;
+}
+/* .acc{
+    margin-right: 100px;
+} */
+.btn{
+    border-left: 10px;
+    font-size: 20px;
+   text-decoration: none;
+}
+.maincards {
+  background-color: brown;
+  margin-top: 10px;
+}
+.card1 {
+  display: inline-flex;
+  padding-left: 100px;
+  
+}
+.card2 {
+  display: inline-flex;
+  padding-left: 80px;
+}
+/* list component */
+.jsondata{
+  display: flex;
+  background-color: rgb(77, 92, 63);
+}
+.card11 {
+  padding-left: 100px;
+}
+.card12 {
+  padding-left: 50px;
+}
+.card13 {
+  padding-left: 50px;
+}
+.card14 {
+  padding-left: 50px;
+}
+/* contacts section */
+
+.listname{
+  color: aqua;
+ font-weight: bolder;
+ font-size: larger;
+}
+.f-row {
+  background-color: cadetblue;
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+.c2-1row{
+  background-color: rgba(100, 0, 58, 0.459);
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+.c3-1row{
+  background-color: chartreuse;
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+.c4-1row {
+  background-color: rgb(219, 15, 110);
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+.d-block {
+  max-width: 50%;
+  max-height: 50%;
+  position: relative;
+  margin: auto;
+  max-width: 50%;
+}
+.name {
+  color: red;
+}
+/* home */
+.aboutreact{
+  color: crimson;
+}
+.aboutreact1{
+  color: rgb(60, 220, 20);
+}
+.aboutjs{
+  color: rgb(63, 20, 220);
+}
+.aboutjs1{
+  color: rgb(220, 20, 170);
+}
+.abouthtml{
+  color: rgba(236, 42, 16, 0.425);
+}
+.abouthtml1{
+  color: red;
+}
+.aboutcss{
+  color: gold;
+}
+.aboutcss1{
+  color: greenyellow;
+}
+.slid {
+  padding-top: 10px;
+}
+.footer {
+  background-color: aquamarine;
+}
+.text-center {
+   color: rgb(255, 0, 55);
+}

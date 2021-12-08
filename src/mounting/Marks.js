@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-
 export default class Marks extends Component {
     render() {
         console.log("Marks - rendered[child of student]")
